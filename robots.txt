@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esecoaya.github.io/Vcw/sitemap_index.txt
+Sitemap: https://esecoaya.github.io/YWd/sitemap_index.txt
+Sitemap: https://esecoaya.github.io/anm/sitemap_index.txt
+Sitemap: https://esecoaya.github.io/ebO/sitemap_index.txt
